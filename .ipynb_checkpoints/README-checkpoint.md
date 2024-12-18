@@ -28,4 +28,4 @@ Graphed Train routes and calculated distances using geopandas
 
 ## Using Contextily & Geopandas 
 Contextily allows you to add basemaps (OpenStreetMap) to geospatial plots that correspond to coordinates.
-Geopandas expands on Pandas handle spatial data by creating a GeoDataFrame to store spatial data with columns for geometries(points, lines, polygons)
+Geopandas expands on Pandas handle spatial data by creating a GeoDataFrame to store spatial data with columns for geometries(points, lines, polygons).
